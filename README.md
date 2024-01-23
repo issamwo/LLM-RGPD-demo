@@ -1,6 +1,6 @@
-### LLM-RGPD
+# LLM-RGPD
 
-# Tools : Python, LLama2 ( GGML version ), LangChain, Streamlit
+### Tools : Python, LLama2 ( GGML version ), LangChain, Streamlit
 *( GGML is a format for LLM's created to run inference (text completion) on CPU's : Quantized model)
 
 The primary objective of this application is to ensure the anonymity of text by masking all personal information, including but not limited to names, phone numbers, addresses, emails, and banking details.
